@@ -1,14 +1,17 @@
 # Music Recommendation System
 [![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![Spotify](https://img.shields.io/badge/Spotify-3DDC84?style=for-the-badge&logo=spotify&logoColor=white)]()
-[![Librosa](https://img.shields.io/badge/Fireb-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)]()
+[![Spotify](https://img.shields.io/badge/Spotify-3DDC84?style=for-the-badge&logo=spotify&logoColor=white)](https://developer.spotify.com/documentation/web-api)
+[![Sklearn](https://img.shields.io/badge/Sklearn-blue?style=for-the-badge&logo=sklearn&logoColor=white)](https://scikit-learn.org/stable/)
+[![Librosa](https://img.shields.io/badge/Librosa-039BE5?style=for-the-badge&logo=librosa&logoColor=white)](https://librosa.org/doc/latest/index.html)
 ## Overview
 Welcome to our Music Genre Classifier and Recommendation System! This versatile tool utilizes machine learning to not only classify music genres based on various audio features but also recommend similar songs tailored to your preferences. Upload your audio file and discover its genre, as well as receive personalized recommendations based on your favorite tunes!
 ## Built using:
 - [Python: ](https://www.python.org/doc/) Python documentation
 - [Librosa: ](https://librosa.org/doc/latest/index.html) Librosa documentation
 - [Sklearn: ](https://scikit-learn.org/stable/) Sklearn documentation
-
+## Dataset Used:
+- GTZAN Dataset
+- Spotify Dataset(Manually Extracted)
 ## Music Recommendation System Features:
 - Accurately classifies audio genres.
 - Recommends Music on giving audio name
