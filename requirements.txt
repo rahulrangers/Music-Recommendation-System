@@ -5,8 +5,8 @@ librosa==0.8.1
 lightgbm==3.3.0
 numpy>=1.21.0
 scikit_learn==1.0.1
-itsdangerous==1.1.0
-Jinja2==2.10.1
-MarkupSafe==1.1.1
-Werkzeug==0.15.5
+itsdangerous==2.1.0  # Updated version
+Jinja2==3.0.3  # Updated version
+MarkupSafe==2.1.0  # Updated version
+Werkzeug>=2.0.2  # Updated version
 
