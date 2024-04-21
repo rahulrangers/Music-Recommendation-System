@@ -27,5 +27,27 @@ Welcome to our Music Genre Classifier and Recommendation System! This versatile 
 | Karan Reddy (B22AI023) | Sophomore  | AI |
 | Shubham Kumar (B22EE064) | Sophomore  | EE |
 
+## Using Command Line Interface
+```js
+  cd App
+```
+### For using recommender
+- train the model and save it
+```js
+  python recommder.py
+```
+- ssing the recommnder model
+```js
+  python Cli.py --recommend <song_name> --n <no_of_components>
+```
+### For using Classifier
+- train the model and save it
+```js
+  python classifier.py
+```
+- using the classifier model
+```js
+  python Cli.py --classify <path_to_song>
+```
 
 
