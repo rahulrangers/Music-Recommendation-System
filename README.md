@@ -34,7 +34,7 @@ Welcome to our Music Genre Classifier and Recommendation System! This versatile 
 ### For using recommender
 - train the model and save it
 ```js
-  python recommder.py
+  python recommender.py
 ```
 - ssing the recommnder model
 ```js
